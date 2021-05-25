@@ -1,0 +1,39 @@
+html {
+  font-family: Source Sans Pro sans-serif;
+}
+.text-align-centre {
+  text-align: center;
+}
+.white-text {
+  color: white;
+
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-evenly {
+  justify-content: space-evenly;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.align-centre {
+  align-items: center;
+}
+.page-header {
+  background-color: darkslategrey;
+}
+.nav-item {
+  text-decoration: none;
+}
+.nav-item:hover {
+  color: steelblue;
+}
+.hero-image {
+  background-image: url(images/rafiki.png);
+  background-color: #303b43;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 80%;
+  height: 350px;
+}
