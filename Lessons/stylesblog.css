@@ -1,0 +1,26 @@
+body {
+  font-family: helvetica;
+}
+
+.intro {
+  font-size: 20px;
+  text-align: center;
+  color: blue;
+}
+
+.about_me {
+  font-size: 15px;
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+  background-color: cornsilk;
+}
+
+hr {
+  height: 10px;
+  color: red;
+}
+
+.school {
+  font-style: italic;
+}
