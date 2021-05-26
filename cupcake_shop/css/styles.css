@@ -1,0 +1,24 @@
+.flashy {
+  text-align: center;
+  background: rgb(116, 153, 67);
+  color: rgb(211, 88, 98);
+  font-size: 45px;
+  font-style: italic;
+}
+
+.image_hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 500px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: left;
+}
+
+.best {
+  font-style: oblique;
+  font-size: xx-large;
+  margin-left: 6px;
+  color: darkorange yellowgreen rebeccapurple;
+}
